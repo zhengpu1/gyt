@@ -12,9 +12,9 @@
  -  **2017年4月22日更新**<br/>
     更新**google**地址
  -  根据自己本地网络ping以下三个ip选择延时最小的hosts文件：
- - [hosts-1](https://raw.githubusercontent.com/zzh628/gyt/master/1/hosts) ip 203.210.7.38
- - [hosts-2](https://raw.githubusercontent.com/zzh628/gyt/master/2/hosts) ip 219.76.4.4
- - [hosts-3](https://raw.githubusercontent.com/zzh628/gyt/master/3/hosts) ip 202.171.252.103
+ -  ip 203.210.7.38
+ -  ip 219.76.4.14
+ -  ip 202.171.252.103
  - 安卓用去广告[hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)
  - 电脑用去广告[hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt)
   
@@ -27,8 +27,8 @@
  -  > 注意：如果遇到无法替换，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
 
  +   ### 安卓平台
- -  首先确认系统已经root，下载[GO Hosts优雅上网](https://raw.githubusercontent.com/zhengpu1/hosts/master/file/GOHosts%E4%BC%98%E9%9B%85%E4%B8%8A%E7%BD%91.apk) 并上传设备安装，打开gohosts软件，点右上的三角选**网络**自定义网址（打开本页面 [hosts-1](https://raw.githubusercontent.com/zhengpu1/hosts/master/1/hosts) 地址栏网址）填入，一键更新即可。
- ![](https://github.com/zhengpu1/hosts/blob/master/file/ho.png)
+ -  首先确认系统已经root，下载[GO Hosts优雅上网](https://raw.githubusercontent.com/zzh628/gyt/master/file/GOHosts%E4%BC%98%E9%9B%85%E4%B8%8A%E7%BD%91.apk) 并上传设备安装，打开gohosts软件，点右上的三角选**网络**自定义网址（打开本页面 [hosts-1](https://raw.githubusercontent.com/zhengpu1/hosts/master/1/hosts) 地址栏网址）填入，一键更新即可。
+ ![](https://github.com/zzh628/gyt/blob/master/file/ho.png)
  +  ## 其他平台 
  + - **注意**： 若更新后，hosts 没有立即生效，请重置网络：
  + - 请将 [hosts][github-hosts] 全部内容复制到`/etc/hosts`中并保存。

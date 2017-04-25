@@ -12,7 +12,7 @@
  -  **2017年4月22日更新**<br/>
     更新**google**地址
  -  根据自己本地网络ping以下三个ip选择延时最小的hosts文件：
- -  ip 203.210.7.38
+ -  ip 203.210.7.41
  -  ip 219.76.4.14
  -  ip 202.171.252.103
  - 安卓用去广告[hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)

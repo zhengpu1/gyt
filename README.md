@@ -9,12 +9,12 @@
 + htcui hosts 包含内容:
 
 + 本地 localhost、Google、Google Play、Twitter、Facebook、Gmail、Youtube、Google Drive、Tumblr、Mega、Dropbox、Apkpure、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、Github、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、UpLoad、Appspot、Googl eusercontent、Gstatic、Google other、谷歌学术、维基百科、xda-developers等网站hosts.
- -  **2017年4月24日更新**<br/>
-    更新**lnstagram**地址
+ -  **2017年4月25日更新**<br/>
+    更新**IP*地址
  -  根据自己本地网络ping以下三个ip选择延时最小的hosts文件：
- -  ip 203.210.7.41
+ -  ip 203.210.6.39
  -  ip 219.76.4.14
- -  ip 202.171.252.103
+ -  ip 202.171.252.105
  - 安卓用去广告[hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)
  - 电脑用去广告[hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt)
   

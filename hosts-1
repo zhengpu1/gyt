@@ -1,4 +1,4 @@
-#version=20170428
+#version=20170429
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -164,10 +164,6 @@
 127.0.0.1 ecmb.bdimg.com
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 su.bdimg.com
-127.0.0.1 cpro.baidustatic.com
-127.0.0.1 cpro2.baidustatic.com
-127.0.0.1 dup.baidustatic.com
-127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 appc.baidu.com
 127.0.0.1 cpu.baidu.com
 127.0.0.1 bj.bcebos.com
@@ -295,9 +291,7 @@
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 adstream.123.sogoucdn.com
 127.0.0.1 theta.sogoucdn.com
-127.0.0.1 partner.googleadservices.com
 127.0.0.1 static.googleadsserving.cn
-127.0.0.1 www.googleadservices.com
 127.0.0.1 c.bing.com
 127.0.0.1 c.msn.com
 127.0.0.1 otf.msn.com
@@ -3505,9 +3499,6 @@
 127.0.0.1 in.3ygww.com
 127.0.0.1 s.3ygww.com
 127.0.0.1 sc.3ygww.com
-127.0.0.1 in.mxmrt.com
-127.0.0.1 s.mxmrt.com
-127.0.0.1 rc.mxmrt.com
 127.0.0.1 s.010xk.com
 127.0.0.1 rc.010xk.com
 127.0.0.1 b.cdnny.com
@@ -3524,10 +3515,6 @@
 127.0.0.1 s.jghcy.com
 127.0.0.1 in.xnjpg.com
 127.0.0.1 s.xnjpg.com
-127.0.0.1 b.nxrhs.com
-127.0.0.1 in.nxrhs.com
-127.0.0.1 rc.nxrhs.com
-127.0.0.1 s.nxrhs.com
 127.0.0.1 s.jkmxy.com
 127.0.0.1 s.ybnrm.com
 127.0.0.1 rc.ybnrm.com
@@ -3775,7 +3762,6 @@
 127.0.0.1 pups.bdimg.com
 127.0.0.1 su.bdstatic.com
 127.0.0.1 zz.bdstatic.com
-127.0.0.1 rigel.baidustatic.com
 127.0.0.1 a.baidu.com
 127.0.0.1 c.baidu.com
 127.0.0.1 cb.baidu.com
@@ -4052,14 +4038,6 @@
 127.0.0.1 bluekai.com
 127.0.0.1 castplatform.com
 127.0.0.1 ping.chartbeat.net
-127.0.0.1 cdn.fastclick.net
-127.0.0.1 code.fastclick.net
-127.0.0.1 images.fastclick.net
-127.0.0.1 media.fastclick.net
-127.0.0.1 secure.fastclick.net
-127.0.0.1 sp.fastclick.net
-127.0.0.1 sync.fastclick.net
-127.0.0.1 www.fastclick.net
 127.0.0.1 csbew.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.2mdn.net
@@ -4102,8 +4080,6 @@
 127.0.0.1 ad.video.51togic.com
 127.0.0.1 cdn.ad.video.51togic.com
 127.0.0.1 osfota.cdn.aliyun.com
-127.0.0.1 osupdateservice.yunos.com
-127.0.0.1 tvupgrade.yunos.com
 127.0.0.1 s.gdatacube.net
 127.0.0.1 cf.gdatacube.net
 127.0.0.1 js.hls.ott.cibntv.net
@@ -4322,3 +4298,24 @@
 127.0.0.1 bdjiaoben.wmxa.cn
 127.0.0.1 a2.huanqiumil.com
 127.0.0.1 a1.huanqiumil.com
+#BT
+#btdb.in
+127.0.0.1 www.bgpxrwjrbsjb.com
+127.0.0.1 www.bzfguipyjops.com
+127.0.0.1 mlvc4zzw.space
+127.0.0.1 cd8iw9mh.cricket
+127.0.0.1 play.entretenimientolz.com
+127.0.0.1 1wzfew7a.site
+127.0.0.1 gjol8ib0.website
+#btdigg.pw
+127.0.0.1 m3a425.wdalk.com
+127.0.0.1 z2.lnymd.com
+127.0.0.1 kd.zzhengre.com
+127.0.0.1 v7.kawinhome.com
+127.0.0.1 js43.hailiao520.com
+127.0.0.1 img.uyangyong.cn
+127.0.0.1 pic.by175.com
+127.0.0.1 jpg.hj753.com
+127.0.0.1 js.adxkj.com
+127.0.0.1 kob.adxkj.com
+127.0.0.1 2017img.myxh999.com
